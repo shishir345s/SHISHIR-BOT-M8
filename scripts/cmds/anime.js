@@ -9,8 +9,8 @@ const mahmud = async () => {
 
 module.exports = {
         config: {
-                name: "anime",
-                aliases: ["anivid", "animevideo"],
+                name: "anime2",
+                aliases: ["anivid2", "animevideo2"],
                 version: "1.7",
                 author: "MahMUD",
                 countDown: 10,
