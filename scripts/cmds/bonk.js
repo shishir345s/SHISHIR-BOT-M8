@@ -52,7 +52,7 @@ async function makeImage(one, two) {
 module.exports = {
   config: {
     name: "bonk",
-    aliases: ["b"],
+    aliases: ["bonk"],
     author: "Meheraz | rewrite by Muzan",
     shortDescription: "Bonk someone",
     longDescription: "Make a BONK meme using two avatars",
