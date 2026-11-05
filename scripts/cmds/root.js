@@ -7,7 +7,7 @@ const FOLDER_ID = "1iodRH_P8XXbLeqkTzU0Km8JnKCy_Uiw3";
 
 module.exports.config = {
     name: "root",
-    aliases: ["rt", "drivecount"],
+    aliases: ["rt2", "drivecount"],
     version: "4.0.0",
     author: "𝔐𝔯.𝔎𝔦𝔫𝔤 ☠️✌🏼",
     role: 0,
