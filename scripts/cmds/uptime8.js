@@ -10,8 +10,8 @@ const execPromise = util.promisify(exec);
 
 module.exports = {
   config: {
-    name: "up2",
-    aliases: ["uptime7", "status2", "sysinfo"],
+    name: "up8",
+    aliases: ["uptime8", "status2", "sysinfo"],
     version: "2.2",
     author: "Ere'rious",
     countDown: 5,
