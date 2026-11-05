@@ -87,7 +87,7 @@ async function buildRankingBody(api, page, pageSize) {
 module.exports = {
   config: {
     name: "coinflip",
-    aliases: ["cf", "flip"],
+    aliases: ["cf2", "flip"],
     version: "2.0.0",
     author: "𝑨𝑹𝑰𝒀𝑨𝑵",
     countDown: 3,
