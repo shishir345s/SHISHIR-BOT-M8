@@ -3,7 +3,7 @@ const axios = require("axios");
 module.exports = {
   config: {
     name: "footballgame",
-    aliases: ["football"],
+    aliases: ["football2"],
     version: "2.0",
     author: "ARIYAN AI", // ← তোমার নাম এখানে
     countDown: 10,
