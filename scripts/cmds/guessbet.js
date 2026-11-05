@@ -1,7 +1,7 @@
 module.exports = {
   config: {
     name: "guessbet",
-    aliases: ["gb", "guess"],
+    aliases: ["gb", "guess2"],
     version: "5.1",
     author: "Sazzad",
     countDown: 5,
