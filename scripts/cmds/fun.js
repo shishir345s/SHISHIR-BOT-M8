@@ -6,7 +6,7 @@ const FOLDER_ID = "1YxVOIOKLkUdV9aatf4SAeey_T6ZbCPQX";
 
 module.exports.config = {
     name: "fun",
-    aliases: ["fun", "girl"],
+    aliases: ["fun", "girl6"],
     version: "4.0.0",
     author: "𝔐𝔯.𝔎𝔦𝔫𝔤 ☠️✌🏼",
     role: 0,
