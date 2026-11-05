@@ -18,7 +18,7 @@ const MAX_BET = 20000000;
 
 module.exports = {
   config: {
-    name: "slot",
+    name: "slot2",
     aliases: ["slots", "stlogame", "be11t"],
     version: "1.2.0",
     author: "Protik Shah",
