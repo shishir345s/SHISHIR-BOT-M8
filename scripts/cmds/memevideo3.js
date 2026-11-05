@@ -33,8 +33,8 @@ const path = require("path");
 
 module.exports = {
   config: {
-    name: "memevideo",
-    aliases: ["memevid", "mvid"],
+    name: "memevideo3",
+    aliases: ["memevid3", "mvid3"],
     version: "3.0",
     author: "xalman",
     countDown: 5,
