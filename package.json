@@ -1,25 +1,20 @@
 {
-  "name": "rem-x-st",
+  "name": "shishir-bot-m8",
   "version": "1.0.0",
-  "description": "REM X ST | Messenger bot forked from ST-BOT (Goat Bot V2)",
-  "homepage": "https://github.com/ariyanx404/rem-x-st#readme",
-  "bugs": {
-    "url": "https://github.com/ariyanx404/rem-x-st/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ariyanx404/rem-x-st.git"
-  },
+  "description": "SHISHIR-BOT-M8 | Messenger Bot",
+  "homepage": "https://github.com/shishir7193/-SHISHIR-BOT-M8",
   "license": "MIT",
-  "author": "ARIYANX404",
-  "contributors": [
-    "ST | Sheikh Tamim (ST-BOT, ST-FCA)",
-    "NTKhang (Original Goat Bot V2)"
-  ],
+  "author": "SHISHIR",
   "main": "index.js",
+
+  "engines": {
+    "node": "20.x"
+  },
+
   "scripts": {
     "start": "node index.js"
   },
+
   "dependencies": {
     "@dongdev/fca-unofficial": "4.0.3",
     "axios": "^1.15.2",
