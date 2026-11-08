@@ -124,7 +124,7 @@ function react(api, messageID, emoji) {
 }
 
 module.exports.config = {
-	name: "sing",
+	name: "sing2",
 	aliases: ["song"],
 	version: "2.0.0",
 	author: "EryXenX",
