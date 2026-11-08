@@ -84,15 +84,15 @@ function getText(type, reason, time, targetID) {
 
 function heTxt(key, ...args) {
   const tpl = {
-    commandNotFound: '🕊️Command "%1" does not exist, type %2help to see all available commands',
-    commandNotFound2: "🕊️The command you are using does not exist, type %1help to see all available commands",
-    commandSyntaxError: "🕊️The command you are using is wrong syntax, please type %1help %2 to see the details of how to use this command",
+    commandNotFound: '🦖Command "%1" does not exist, type %2help to see all available commands',
+    commandNotFound2: "🐲𝘼𝙝𝙢𝙚𝘿’𝙯 𝙎𝙃𝙄’𝙎𝙃𝙄𝙍: 𝙊𝙤𝙥𝙨! 𝙏𝙝𝙞𝙨 𝙘𝙤𝙢𝙢𝙖𝙣𝙙 𝙞𝙨𝙣'𝙩 𝙖𝙫𝙖𝙞𝙡𝙖𝙗𝙡𝙚. 𝙏𝙧𝙮 𝙖𝙣𝙤𝙩𝙝𝙚𝙧 𝙤𝙣𝙚 𝙤𝙧 𝙘𝙝𝙚𝙘𝙠 !𝙝𝙚𝙡𝙥.",
+    commandSyntaxError: "The🦖 command you are using is wrong syntax, please type %1help %2 to see the details of how to use this command",
     onlyAdmin: '🕊️ | Only group administrators can use the command "%1"',
-    onlyAdminToUseOnReply: '🕊️ | Only group administrators can use the reply function of the command "%1"',
-    onlyAdminToUseOnReaction: '🕊️ | Only group administrators can use the reaction function of the command "%1"',
+    onlyAdminToUseOnReply: '🦖 | Only group administrators can use the reply function of the command "%1"',
+    onlyAdminToUseOnReaction: '🐲 | Only group administrators can use the reaction function of the command "%1"',
     onlyAdminBot2: "🕊️ | Only bot's admin can use the command \"%1\"",
-    onlyAdminBot2ToUseOnReply: "🕊️ | Only bot's admin can use the reply function of the command \"%1\"",
-    onlyAdminBot2ToUseOnReaction: "🕊️ | Only bot's admin can use the reaction function of the command \"%1\"",
+    onlyAdminBot2ToUseOnReply: "🦖 | Only bot's admin can use the reply function of the command \"%1\"",
+    onlyAdminBot2ToUseOnReaction: "🦖 | Only bot's admin can use the reaction function of the command \"%1\"",
     waitingForCommand: "⏱ You are in the waiting time to use this command, please come back after %1s",
     errorOccurred:  '❌ [ %1 ]\nAn error occurred at command "%2"\n\n%3',
     errorOccurred2: '❌ [ %1 ]\nAn error occurred at command onChat in command "%2"\n\n%3',
