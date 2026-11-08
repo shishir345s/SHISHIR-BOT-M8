@@ -4,7 +4,7 @@ const GIFEncoder = require("gifencoder");
 
 module.exports = {
   config: {
-    name: "owner",
+    name: "owners",
     version: "13.0",
     author: "Ariyan ",
     countDown: 5,
