@@ -7,7 +7,7 @@ const sharp = require("sharp");
 module.exports = {
 config: {
 name: "chichi",
-aliases: ["chi", "funny"],
+aliases: ["chi", "funnys"],
 version: "1.0.0",
 author: "SHISHIR",
 role: 0,
