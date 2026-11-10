@@ -19,6 +19,7 @@ module.exports = {
 
   // === Emoji to Voice Map ===
   emojiAudioMap: {
+    "🙂": "https://files.catbox.moe/ncy088.tmp",
     "🥱": "https://files.catbox.moe/9pou40.mp3",
     "😁": "https://files.catbox.moe/60cwcg.mp3",
     "😌": "https://files.catbox.moe/epqwbx.mp3",
