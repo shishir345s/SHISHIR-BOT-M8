@@ -2,8 +2,8 @@ const axios = require("axios");
 
 module.exports = {
   config: {
-    name: "ffquiz2",
-    aliases: ["ffqz2"],
+    name: "ffquiz",
+    aliases: ["ffqz"],
     version: "0.0.7",
     author: "Azadx69x",
     role: 0,
