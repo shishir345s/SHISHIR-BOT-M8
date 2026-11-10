@@ -7,7 +7,7 @@ const sharp = require("sharp");
 module.exports = {
 config: {
 name: "balcat",
-aliases: ["cat", "bal"],
+aliases: ["cut", "balll"],
 version: "1.0.0",
 author: "SHISHIR",
 role: 0,
